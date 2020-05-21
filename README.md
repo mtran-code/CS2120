@@ -7,4 +7,4 @@ All "Assignment_Check.py", "Assignment_MarkingScheme.txt" files written by profe
 
 csv databases taken from assignment files and/or downloaded online.
 
-Several activity/assignment python files written incomplete by professor, completed by me.
+Several activity/assignment python files written incomplete by professor (empty functions), completed by me.
