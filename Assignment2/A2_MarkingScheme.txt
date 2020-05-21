@@ -1,0 +1,41 @@
+CS 2120 Assignment 2 Marking Scheme
+Student Name:
+
+
+Student Number:
+
+
+TA Name: 
+
+
+General
+[1 mark] Comments and function headers are satisfactory.
+
+Coding Part 1
+
+[0.5 marks] regain
+- Correct city and only the correct city must be regained
+
+
+[0.5 marks] lose
+- Correct city and only the correct city must be lost
+
+
+[1.5 mark] sim_step
+- Must implement the provided algorithm correctly.
+
+Coding Part 2
+
+[1 mark] is_world_saved
+- Must use a loop to iterate over list of cities while checking for regainedness
+
+[1.5 marks] time_to_save_world
+- Must follow provided algorithm (using a counter variable and a while-loop)
+
+[1.5 marks] save_world_many_times
+- Must build a list of results
+- Must call time_to_save_world to build results
+
+Analysis [0.5 marks each]
+
+Answers to questions must clearly describe the relationship between the two variables and simulation outcomes, i.e., provides evidence.

@@ -1,0 +1,42 @@
+CS 2120 Assignment 1 Marking Scheme
+Student Name:
+
+
+Student Number:
+
+
+TA Name: 
+
+
+General:
+[2 marks] Program runs without errors and produces output for all three functions.
+
+
+[1 mark] Numerical values for months are converted to English names.
+
+
+coldest_month:
+[1 mark] Function returns a string with month, year, and temperature incorporated using variables.
+
+
+[1 mark] Function returns the correct result.
+
+
+
+warmest_month:
+[1 mark] Function returns a string with month, year, and temperature incorporated using variables.
+
+
+[1 mark] Function returns the correct result.
+
+
+
+print_mean_annual_temperature:
+[1 mark] Function uses a conditional statement to select the specified year.
+
+
+[1 mark] Function has an appropriate means of checking for nan values and insufficient data.
+
+
+[1 mark] Function returns the correct result for any year tested.
+

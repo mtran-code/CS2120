@@ -1,0 +1,49 @@
+CS 2120 Assignment 4 Marking Scheme
+Student Name: Michael Tran
+Student Number: 251033279
+TA Name: 
+
+NB: This scheme may change depending on the range of submissions received, but the outline of what is expected will be similar.
+    The bullet points under each section are key considerations in grading, but do not necessarily have equal weighting.
+
+Requirements: 
+   - data loading function (all data is loaded only once); 
+   - two learning functions (using different algorithms); 
+   - two visualization functions (using different methods and data);
+   - text or pdf (pdf preferred) containing the analysis/discussion of the results of the project, incorporating images as appropriate.
+
+
+- Data Loading -
+
+[2 marks]
+   - data loaded only once
+   - well-structured loading of the data
+
+- Learning -
+
+[8 marks = 4 marks/algorithm] 
+   - learning method is implemented properly and works
+   - appropriate method used to determine the validity of the learning results
+   - time/effort was spent to explore different options/possibilities with a given algorithm (beyond what was done in class)
+
+- Visualization -
+
+[5 marks = 2.5 marks/visualization]
+   - the visualizations present new information (not already known from the description or prior understanding of the data) or answer a definite question;
+   - the visualizations are chosen well (display desired information clearly);
+   - proper labels.
+
+- Analysis -
+
+[5 marks]
+   - clear description of what is done in the learning and visualization tasks;
+   - reasonable inferences made concerning what the learning methods show and what their limitations are;
+   - comparison/contrast of different learning methods, as appropriate given the choices of algorithms made;
+   - incorporate visualizations into the discussion of the project in an appropriate place, given choices of visualization methods.
+
+
+- Deductions -
+
+[-2 marks] code does not run without modification
+[-2 marks] same algorithm is used for the two learning functions.
+[-1.5 marks] same visualization method or the same data is used for the two visualization functions.
